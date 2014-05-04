@@ -4,7 +4,7 @@ Understanding WebGL
 Our attempts to understanding graphic programming.
 
 Authors:
-Alexander Filipov
+Aleksandar Filipov
 Prathyush Pramod
 
 Sources:
